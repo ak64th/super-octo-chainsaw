@@ -1,0 +1,34 @@
+{
+  "name": "super-octo-chainsaw",
+  "version": "0.1.0",
+  "description": "A try for text matching on browser",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "browser-sync": "^2.12.3",
+    "coffeeify": "^2.0.1",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "yamlify": "^0.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ak64th/super-octo-chainsaw"
+  },
+  "author": "Elmer Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ak64th/super-octo-chainsaw/issues"
+  },
+  "homepage": "https://github.com/ak64th/super-octo-chainsaw",
+  "dependencies": {
+    "ampersand-view": "^9.0.0",
+    "lodash": "^3.2.0"
+  }
+}
