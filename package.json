@@ -29,6 +29,7 @@
   "homepage": "https://github.com/ak64th/super-octo-chainsaw",
   "dependencies": {
     "ampersand-view": "^9.0.0",
-    "lodash": "^3.2.0"
+    "lodash": "^3.2.0",
+    "string_score": "^0.1.22"
   }
 }
